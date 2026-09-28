@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662653589615",
+    "project_id": "better-world-60db9",
+    "storage_bucket": "better-world-60db9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662653589615:android:6738bc9f11188f917a159a",
+        "android_client_info": {
+          "package_name": "com.example.better_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG66COVZNJksNKWiUune0LTbBauPQyv1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
